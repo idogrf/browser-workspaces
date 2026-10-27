@@ -1,0 +1,7 @@
+{
+  "uuid": "browser-workspaces@idogr",
+  "name": "Browser Workspaces",
+  "description": "Puts Chrome and Brave windows back on the workspaces they were on when they are restored after logging out and back in. On Wayland the browsers cannot do this themselves, so every restored window lands on the current workspace.",
+  "shell-version": ["50"],
+  "version": 1
+}
